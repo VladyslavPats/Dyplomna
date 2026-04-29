@@ -1,0 +1,20 @@
+[
+  {"id": 1, "topic": "food", "q": "apple", "a": "яблуко"},
+  {"id": 2, "topic": "food", "q": "bread", "a": "хліб"},
+  {"id": 3, "topic": "food", "q": "cheese", "a": "сир"},
+  {"id": 4, "topic": "food", "q": "milk", "a": "молоко"},
+  {"id": 5, "topic": "food", "q": "sugar", "a": "цукор"},
+  {"id": 6, "topic": "travel", "q": "airport", "a": "аеропорт"},
+  {"id": 7, "topic": "travel", "q": "ticket", "a": "квиток"},
+  {"id": 8, "topic": "travel", "q": "hotel", "a": "готель"},
+  {"id": 9, "topic": "travel", "q": "taxi", "a": "таксі"},
+  {"id": 10, "topic": "technology", "q": "computer", "a": "комп’ютер"},
+  {"id": 11, "topic": "technology", "q": "code", "a": "код"},
+  {"id": 12, "topic": "technology", "q": "software", "a": "програмне забезпечення"},
+  {"id": 13, "topic": "sport", "q": "football", "a": "футбол"},
+  {"id": 14, "topic": "sport", "q": "gym", "a": "спортзал"},
+  {"id": 15, "topic": "sport", "q": "team", "a": "команда"},
+  {"id": 16, "topic": "nature", "q": "tree", "a": "дерево"},
+  {"id": 17, "topic": "nature", "q": "river", "a": "річка"},
+  {"id": 18, "topic": "nature", "q": "sun", "a": "сонце"}
+]
